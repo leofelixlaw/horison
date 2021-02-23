@@ -57,11 +57,11 @@
   }
   
   #topnav .has-submenu.active .submenu li.active > a {
-    color: #f73859;
+    color: #4f7310;
   }
   
   #topnav .has-submenu.active .menu-arrow {
-    border-color: #f73859;
+    border-color: #4f7310;
   }
   
   .has-submenu {
@@ -121,7 +121,7 @@
   }
   
   #topnav .navbar-toggle.open span:hover {
-    background-color: #f73859;
+    background-color: #4f7310;
   }
   
   #topnav .navbar-toggle:hover,
@@ -160,7 +160,7 @@
   }
   
   .navbar-sticky.darkheader .navigation-menu .has-submenu.active a {
-    color: #f73859 !important;
+    color: #4f7310 !important;
   }
   
   
@@ -252,7 +252,7 @@
     }
     #topnav .navigation-menu > li .submenu li a:hover,
     #topnav .navigation-menu .has-submenu .submenu > li:hover > a {
-        color: #f73859 !important;
+        color: #4f7310 !important;
     }
     #topnav .navbar-toggle {
         display: none;
@@ -314,7 +314,7 @@
   }
   
   .navbar-sticky.darkheader .logo {
-    color: #f73859;
+    color: #4f7310;
   }
   
   #topnav .navbar-sticky {
@@ -327,20 +327,20 @@
   }
   
   .navbar-sticky.darkheader .navigation-menu > li:hover > a {
-    color: #f73859 !important;
+    color: #4f7310 !important;
   }
   
   .navbar-sticky.darkheader .navigation-menu > li:hover > .menu-arrow {
-    border-color: #f73859;
+    border-color: #4f7310;
   }
   
   .navbar-sticky.darkheader .menu-arrow:hover {
-    border: solid #f73859;
+    border: solid #4f7310;
     border-width: 0 1px 1px 0;
   }
   
   .navbar-sticky.darkheader .btn-login {
-    background: #f73859;
+    background: #4f7310;
     border-radius: 3px;
     color: #fff;
     letter-spacing: 1px;
@@ -383,7 +383,7 @@
     #topnav .navigation-menu > li.has-submenu.open > a,
     #topnav .menu-extras .menu-item .cart > a:hover,
     #topnav .menu-extras .menu-item .search > a:hover {
-        color: #f73859;
+        color: #4f7310;
     }
     #topnav .navigation-menu > li > a:after {
         position: absolute;
@@ -406,7 +406,7 @@
         transition: all 0.3s;
     }
     #topnav .navigation-menu .submenu.open .has-submenu.open > a {
-        color: #f73859;
+        color: #4f7310;
     }
     #topnav .navigation-menu > li .submenu.open {
         display: block;
@@ -447,7 +447,7 @@
         display: block;
     }
     #topnav .has-submenu.active a {
-        color: #f73859 !important;
+        color: #4f7310 !important;
     }
     #navigation {
         position: absolute;
