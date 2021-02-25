@@ -326,8 +326,9 @@ a {
   font-size: 3rem;
   color: #fff;
   text-transform: uppercase;
-  margin-top: 20px;
+  margin-top: 10px;
   font-weight: bolder;
+  margin-bottom: 15px;
 }
 
 .home-subtitle {
@@ -626,7 +627,7 @@ a {
 .pricing-box-active {
   border: 2px solid #4f7310;
   border-radius: 3px;
-  min-height: 400px;
+  min-height: 418px;
 }
 
 /*******************************
